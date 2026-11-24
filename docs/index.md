@@ -12,3 +12,5 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://Xoston.github.io/devops-docs/`.
+
+Проверка: [несуществующая страница](missing-page.md).
